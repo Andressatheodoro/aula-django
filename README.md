@@ -1,2 +1,3 @@
 # aula-django
-tutorial-jango
+tutorial-django
+aula de programação pra internet
